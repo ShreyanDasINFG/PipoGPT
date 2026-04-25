@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #f7f7f8;
+  font-family: system-ui;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  background: white;
+  padding: 40px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 12px;
+  width: 200px;
+}
